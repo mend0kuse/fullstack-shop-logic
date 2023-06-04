@@ -1,0 +1,9 @@
+.img {
+	width: 500px;
+	object-fit: cover;
+	height: 500px;
+}
+
+.product {
+	display: flex;
+}
